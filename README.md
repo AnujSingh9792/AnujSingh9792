@@ -1,9 +1,8 @@
-# Hi 👋, I'm Anuj Kumar Singh
+<h1 align="center">Hi 👋, I'm Anuj Kumar Singh</h1>
 
-## 🚀 Software Developer @ FindiBANKIT
-
-Frontend Developer with experience in React.js, Next.js, Tailwind CSS and REST APIs.
-
+<h3 align="center">
+🚀 Software Developer @ FindiBANKIT | React.js | Next.js | Tailwind CSS
+</h3>
 ---
 
 ### 👨‍💻 About Me
