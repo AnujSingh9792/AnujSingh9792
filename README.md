@@ -6,10 +6,6 @@
   <a href="https://www.linkedin.com/in/anuj-kumar-singh-656912247/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AnujSingh9792">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
 </p>
 
 ---
