@@ -2,12 +2,6 @@
 
 <h3 align="center">🚀 Software Developer @ FindiBANKIT</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anuj-kumar-singh-656912247/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
