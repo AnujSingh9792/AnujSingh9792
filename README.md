@@ -9,9 +9,8 @@ Frontend Developer with experience in React.js, Next.js, Tailwind CSS and REST A
 ### 👨‍💻 About Me
 
 - 🔭 Working on CAPS Portal
-- 🌱 Learning Java Spring Boot & Microservices
 - 💻 Building React & Next.js Applications
-- 🎨 Interested in UI/UX Design
+- 🎨 UI/UX Design
 - 🚀 Goal: Become Full Stack Developer
 
 ---
