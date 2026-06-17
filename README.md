@@ -9,7 +9,7 @@
 
 - 🔭 Working on CAPS Portal
 - 💻 Building React & Next.js Applications
-- 🎨 UI/UX Design
+- 🎨 Passionate about UI/UX Design
 - 🚀 Goal: Become Full Stack Developer
 
 ---
