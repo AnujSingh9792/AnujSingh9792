@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Kumar Singh</h1>
 
 <h3 align="center">
-🚀 Software Developer @ FindiBANKIT | React.js | Next.js | Tailwind CSS
+🚀 Software Developer @ FindiBANKIT
 </h3>
 ---
 
