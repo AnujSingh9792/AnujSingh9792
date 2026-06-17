@@ -44,10 +44,17 @@ Enterprise Admin Portal built using React.js, Next.js, Tailwind CSS and REST API
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/anuj-kumar-singh-656912247/
-- 🌐 Portfolio: Coming Soon
+<p align="center">
+  <a href="https://www.linkedin.com/in/anuj-kumar-singh-656912247/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+
+  <a href="https://github.com/AnujSingh9792" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
+</p>
 
 ---
 
