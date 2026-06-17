@@ -37,6 +37,22 @@
 
 ---
 
+## 🚀 Featured Project
+
+### 🏦 CAPS Portal - FindiBANKIT
+
+Enterprise Admin Portal built using React.js, Next.js, Tailwind CSS and REST APIs.
+
+🔗 Live Project: https://caps.bankit.in
+
+#### Key Features
+- User Management
+- Transaction Reports
+- Finance Reports
+- Dashboard Analytics
+- Role Based Access
+- API Integration
+
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnujSingh9792&show_icons=true)
