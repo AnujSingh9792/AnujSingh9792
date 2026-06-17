@@ -47,7 +47,7 @@
 
 ### 📫 Connect With Me
 
-- LinkedIn: Coming Soon
+- LinkedIn: [Coming Soon](https://www.linkedin.com/in/anuj-kumar-singh-656912247/)
 - Portfolio: Coming Soon
 
 ---
