@@ -14,27 +14,11 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### Frontend
-- React.js
-- Next.js
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-
-#### Database
-- MySQL
-- SQL
-
-#### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Figma
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,mysql,git,github,vscode,postman,figma" />
+</p>
 ---
 
 ## 🚀 Featured Project
