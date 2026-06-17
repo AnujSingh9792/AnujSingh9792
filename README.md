@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Anuj Kumar Singh
 
-<!--
-**AnujSingh9792/AnujSingh9792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Developer @ FindiBANKIT
 
-Here are some ideas to get you started:
+Frontend Developer with experience in React.js, Next.js, Tailwind CSS and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Working on CAPS Portal
+- 🌱 Learning Java Spring Boot & Microservices
+- 💻 Building React & Next.js Applications
+- 🎨 Interested in UI/UX Design
+- 🚀 Goal: Become Full Stack Developer
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+- React.js
+- Next.js
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+#### Database
+- MySQL
+- SQL
+
+#### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnujSingh9792&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnujSingh9792&layout=compact)
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: Coming Soon
+- Portfolio: Coming Soon
+
+---
+
+⭐ Thanks for visiting my profile!
