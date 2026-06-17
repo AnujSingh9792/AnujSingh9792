@@ -19,7 +19,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,mysql,git,github,vscode,postman,figma" />
 </p>
----
 
 ## 🚀 Featured Project
 
